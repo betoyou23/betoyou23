@@ -1,0 +1,7 @@
+écho "# betoyou23" >> README.md
+  git init
+  git ajouter README.md
+  git commit - m "premier commit"
+  git branche - M principale
+  git remote ajouter l'origine https://github.com/betoyou23/betoyou23.git
+  git push - u origine principale
